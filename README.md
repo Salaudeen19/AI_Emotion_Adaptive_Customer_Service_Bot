@@ -5,12 +5,12 @@
 Emotionally Intelligent AI Customer Support Chatbot designed to provide efficient, empathetic, and human-like interactions for your Enterprises. Powered by Google Gemini AI, it dynamically adapts its tone and responses based on customer sentiment, ensuring an engaging and professional user experience.  
 
 ## Features  
-✅ **Emotionally Adaptive Responses** – Adjusts tone based on customer sentiment.  
-✅ **Context-Aware Conversations** – Remembers previous interactions for continuity.  
-✅ **Generative AI-Based Responses** – Uses Google Gemini AI for accurate and personalized replies.  
-✅ **Secure & Professional Interactions** – Handles inappropriate requests with firm professionalism.  
-✅ **Conversational Flow Management** – Avoids redundant greetings and ensures smooth interactions.  
-✅ **Predefined Core Principles** – Maintains a warm, witty, and engaging personality.  
+**Emotionally Adaptive Responses** – Adjusts tone based on customer sentiment.  
+**Context-Aware Conversations** – Remembers previous interactions for continuity.  
+**Generative AI-Based Responses** – Uses Google Gemini AI for accurate and personalized replies.  
+**Secure & Professional Interactions** – Handles inappropriate requests with firm professionalism.  
+**Conversational Flow Management** – Avoids redundant greetings and ensures smooth interactions.  
+**Predefined Core Principles** – Maintains a warm, witty, and engaging personality.  
 
 ## Technologies Used  
 - **Python** (Backend Logic)  
@@ -55,9 +55,9 @@ streamlit run app.py
 3. Enjoy a professional and **engaging AI assistant experience**.  
 
 ## Future Enhancements  
-🚀 **Multi-Language Support** (e.g., Japanese integration for cultural adaptation).  
-🚀 **Voice Command Integration** for hands-free interaction.  
-🚀 **Enhanced Sentiment Analysis** for deeper emotional understanding.  
+**Multi-Language Support** (e.g., Japanese integration for cultural adaptation).  
+**Voice Command Integration** for hands-free interaction.  
+**Enhanced Sentiment Analysis** for deeper emotional understanding.  
 
 ## License  
 This project is licensed under the **MIT License**.  
